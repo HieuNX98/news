@@ -1,0 +1,7 @@
+
+]javascript:S2137	"ADo not use "undefined" to declare a parameter - use another name.(ÿ¨±Ö
+ojavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹³‡m
+fjavascript:S3358Ž"DExtract this nested ternary operation into an independent statement.(þæ—Ûýÿÿÿÿ
+njavascript:S4138’"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(í¹—„þÿÿÿÿ
+fjavascript:S3358—"DExtract this nested ternary operation into an independent statement.(æß‰ùøÿÿÿÿ
+Sjavascript:S1121Á"6Extract the assignment of "data" from this expression.(—¯¤Ò

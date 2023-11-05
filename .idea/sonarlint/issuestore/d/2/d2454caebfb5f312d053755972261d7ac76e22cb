@@ -1,0 +1,17 @@
+
+P
+java:S1161$":Add the "@Override" annotation above this method signature(Œ¥õ—
+U
+java:S1161)":Add the "@Override" annotation above this method signature(àâ¯†şÿÿÿÿ
+K
+java:S1172."5Remove this unused method parameter "authentication".(ĞŠ…ø
+\
+java:S1126:"AReplace this if-then-else statement by a single return statement.(»¸Ëâøÿÿÿÿ
+\
+java:S1126@"AReplace this if-then-else statement by a single return statement.(ŸğÕßúÿÿÿÿ
+]
+java:S1128	"BRemove this unused import 'com.laptrinhjavaweb.entity.RoleEntity'.(‘˜ğúÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.security.core.GrantedAuthority'.(½Á±ÿ
+r
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë
